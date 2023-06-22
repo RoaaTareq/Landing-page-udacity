@@ -33,7 +33,15 @@ li{
 section.active {
     color:red;
   }
-
+  /* .active {
+    background-color: lightblue;
+  } */
+/* li.active{
+    background-color: lightblue;
+} */
+.active{
+    background-color: pink;
+}
 
 a{
     text-decoration: none;
